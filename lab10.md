@@ -2,94 +2,94 @@
 
 ## Checkpoint 0
 
-(Project Blog Updates)[https://github.com/mindyyip/lab3/wiki]
+[Project Blog Updates](https://github.com/mindyyip/lab3/wiki)
 
 ## Checkpoint 1
 
-![couchdb localhost](couchdblocalhost.PNG]
+![couchdb localhost](images/couchdblocalhost.png)
 
 ## Checkpoint 2
 
 ### List of Databases
 
-![users](users.PNG)
+![users](images/users.png)
 
 ### Creating More Databases
 
-![adding](adding.PNG)
+![adding](images/adding.png)
 
 ### Deleting Plankton Database
 
-![delete](delete.PNG)
+![delete](images/delete.png)
 
 ### Resulting Databases
 
-![databases](database1.PNG)
+![databases](images/database1.png)
 
 ### Mango Queries
 
-![mango1](mango.PNG)
+![mango1](images/mango.png)
 
-![mango2](mango2.PNG)
+![mango2](images/mango2.png)
 
 ### Triggering Replication
 
-![replication](replication.PNG)
+![replication](images/replication.png)
 
 
 ## Checkpoint 3
 
 ### Album Database
 
-![create album](createalbum.PNG)
+![create album](images/createalbum.png)
 
 ### Album Backup Database
 
-![album backup](albumbackup.PNG)
+![album backup](images/albumbackup.png)
 
 ### UIUD
 
-![uiud](3freshuiud.PNG)
+![uiud](images/3freshuiud.png)
 
 ### Documents
 
-![adddoc](adddoc.PNG)
+![adddoc](images/adddoc.png)
 
 ### Revisions
 
-![revision](revision.PNG)
+![revision](images/revision.png)
 
 ### Attachments
 
-![attachment](attachment.PNG)
+![attachment](images/attachment.png)
 
-![post attachment](postattachment.PNG)
+![post attachment](images/postattachment.png)
 
 ### Replication 
 
-![album replication](albumrepcmd.PNG)
+![album replication](images/albumrepcmd.png)
 
-![album database](albumrep.PNG)
+![album database](images/albumrep.png)
 
-![albumrepcmd](albumrepcmd.PNG)
+![albumrepcmd](images/albumrepcmd.png)
 
-![albumsizes](albumsizes.PNG)
+![albumsizes](images/albumsizes.png)
 
 ## Checkpoint 4
 
 ### cURL to select movies from a given year
 
-![part 1](chk41.PNG)
+![part 1](images/chk41.png)
 
 ### cURL to select movies whose titles come after "L"
 
-![part 2](chk42.PNG)
+![part 2](images/chk42.png)
 
 ### Creating an index
 
-![part 3](chk43.PNG)
+![part 3](images/chk43.png)
 
 ### cURL "L" without warnings
 
-![part4](chk44.PNG)
+![part4](images/chk44.png)
 
